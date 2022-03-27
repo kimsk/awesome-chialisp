@@ -30,6 +30,10 @@ Rust Chia RPC clients – https://github.com/GalactechsLLC/rust-chia-types
 
 Rust Chia Types – https://github.com/GalactechsLLC/rust-chia-types
 
+Chia Crypto Utils - https://github.com/irulast/chia-crypto-utils
+
+Chia Simulator - https://hub.docker.com/r/irulast/chia-simulator
+
 chia-dotnet - https://dkackman.github.io/chia-dotnet/
 
 A CLVM implementation in TypeScript – https://github.com/Rigidity/clvm
