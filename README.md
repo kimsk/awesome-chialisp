@@ -43,11 +43,15 @@ CATBOT 9000, RPC Chia Utility – https://github.com/joshpainter/catbot-9000
 
 ## Open Source Projects
 
+Arbor Wallet - https://github.com/arborwallet/arbor-wallet
+
 Goby Wallet – https://github.com/GobyWallet
 
-Chia-BTC Lightning Submarine Swaps - https://github.com/richardkiss/chiaswap
+Nucle Wallet - https://github.com/EmergentCoin/NucleWallet
 
-Chialisp DART Application – https://github.com/arborwallet/chia-crypto-utils
+Offer Pool - https://github.com/offerpool/offerpool
+
+Chia-BTC Lightning Submarine Swaps - https://github.com/richardkiss/chiaswap
 
 
 ## Miscellaneous Links and Resources
