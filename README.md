@@ -40,6 +40,7 @@ A CLVM implementation in TypeScript – https://github.com/Rigidity/clvm
 
 CATBOT 9000, RPC Chia Utility – https://github.com/joshpainter/catbot-9000
 
+An unoffical OpenAPI description of chia RPC interfaces – https://github.com/dkackman/chia-api
 
 ## Open Source Projects
 
