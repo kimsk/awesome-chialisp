@@ -39,7 +39,9 @@ Chia Dev Tools – https://github.com/Chia-Network/chia-dev-tools
 
 Chia Dev Tracker - https://dev.chialinks.com
 
-XCH Faucet _ https://xchdev/faucet
+Dev Intro to Chia - https://github.com/RightSexyOrc/chiadevgettingstarted
+
+XCH Faucet - https://xchdev/faucet
 
 Clovyr Chialisp Environment - https://clovyr.app/instant/code-chia
 
@@ -48,8 +50,6 @@ Rust Chia RPC clients – https://github.com/GalactechsLLC/rust-chia-types
 Rust Chia Types – https://github.com/GalactechsLLC/rust-chia-types
 
 Chia Crypto Utils - https://github.com/irulast/chia-crypto-utils
-
-Dev Intro to Chia - https://github.com/RightSexyOrc/chiadevgettingstarted
 
 Chia Simulator - https://hub.docker.com/r/irulast/chia-simulator
 
@@ -60,6 +60,8 @@ Chia Javascript API - https://github.com/Yakuhito/GreenWeb.js
 A CLVM Implementation in TypeScript – https://github.com/Rigidity/clvm
 
 XCH Transaction Exporter - https://github.com/steppsr/getxchtxPS
+
+Bladebit - https://github.com/Chia-Network/bladebit
 
 ### Cat Dev Tools
 
