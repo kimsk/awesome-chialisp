@@ -98,3 +98,8 @@ Chialisp Chia Links Page – https://chialinks.com/chialisp
 
 Digital Spaceport Chialisp Resources - https://digitalspaceport.com/cryptocurrency/chia/chialisp
 
+AGG_SIG_ME - https://aggsig.me/
+
+Chia Blockchain Stuff - https://rudolfachter.github.io/blockchain-stuff/public/
+
+Chia Concepts - https://github.com/kimsk/chia-concepts
