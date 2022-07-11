@@ -67,6 +67,8 @@ Bladebit - https://github.com/Chia-Network/bladebit
 
 CATBOT 9000, RPC Chia Utility – https://github.com/joshpainter/catbot-9000
 
+An unoffical OpenAPI description of chia RPC interfaces – https://github.com/dkackman/chia-api
+
 CAT Airdrop Tool - https://github.com/morph3us1984/CAT-Airdrop-Tool
 
 CAT Send Script - https://github.com/morph3us1984/CAT-auto-send-script
@@ -75,14 +77,17 @@ GUI Application for NFT Generation - https://github.com/MindSpace/NFT_Generator
 
 Serpent Send Script - https://github.com/ageorge95/SERPENT-chia-offline-transaction-sign-and-send
 
-
 ## Open Source Projects
+
+Arbor Wallet - https://github.com/arborwallet/arbor-wallet
 
 Goby Wallet – https://github.com/GobyWallet
 
-Chia-BTC Lightning Submarine Swaps - https://github.com/richardkiss/chiaswap
+Nucle Wallet - https://github.com/EmergentCoin/NucleWallet
 
-Chialisp DART Application – https://github.com/arborwallet/chia-crypto-utils
+Offer Pool - https://github.com/offerpool/offerpool
+
+Chia-BTC Lightning Submarine Swaps - https://github.com/richardkiss/chiaswap
 
 Silo Wallet - https://github.com/scotopic/silo-wallet
 
@@ -93,3 +98,8 @@ Chialisp Chia Links Page – https://chialinks.com/chialisp
 
 Digital Spaceport Chialisp Resources - https://digitalspaceport.com/cryptocurrency/chia/chialisp
 
+AGG_SIG_ME - https://aggsig.me/
+
+Chia Blockchain Stuff - https://rudolfachter.github.io/blockchain-stuff/public/
+
+Chia Concepts - https://github.com/kimsk/chia-concepts
