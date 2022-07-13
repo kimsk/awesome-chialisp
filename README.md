@@ -41,7 +41,7 @@ Chia Dev Tracker - https://dev.chialinks.com
 
 Dev Intro to Chia - https://github.com/RightSexyOrc/chiadevgettingstarted
 
-XCH Faucet - https://xchdev/faucet
+XCH Faucet - https://xchdev.com/faucet/
 
 Clovyr Chialisp Environment - https://clovyr.app/instant/code-chia
 
@@ -62,6 +62,8 @@ A CLVM Implementation in TypeScript – https://github.com/Rigidity/clvm
 XCH Transaction Exporter - https://github.com/steppsr/getxchtxPS
 
 Bladebit - https://github.com/Chia-Network/bladebit
+
+A REPL tool for Chia - https://github.com/dkackman/chia-repl
 
 ### Cat Dev Tools
 
