@@ -41,7 +41,7 @@ Chia Dev Tracker - https://dev.chialinks.com
 
 Dev Intro to Chia - https://github.com/RightSexyOrc/chiadevgettingstarted
 
-XCH Faucet - https://xchdev/faucet
+XCH Faucet - https://xchdev.com/faucet/
 
 Clovyr Chialisp Environment - https://clovyr.app/instant/code-chia
 
@@ -63,6 +63,8 @@ XCH Transaction Exporter - https://github.com/steppsr/getxchtxPS
 
 Bladebit - https://github.com/Chia-Network/bladebit
 
+A REPL tool for Chia - https://github.com/dkackman/chia-repl
+
 ### Cat Dev Tools
 
 CATBOT 9000, RPC Chia Utility – https://github.com/joshpainter/catbot-9000
@@ -72,6 +74,8 @@ An unoffical OpenAPI description of chia RPC interfaces – https://github.com/d
 CAT Airdrop Tool - https://github.com/morph3us1984/CAT-Airdrop-Tool
 
 CAT Send Script - https://github.com/morph3us1984/CAT-auto-send-script
+
+CAT/NFT Create bulk offers - https://github.com/su77ungr/easy_mint
 
 Serpent Send Script - https://github.com/ageorge95/SERPENT-chia-offline-transaction-sign-and-send
 
