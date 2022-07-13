@@ -73,6 +73,8 @@ CAT Airdrop Tool - https://github.com/morph3us1984/CAT-Airdrop-Tool
 
 CAT Send Script - https://github.com/morph3us1984/CAT-auto-send-script
 
+CAT/NFT Create bulk offers - https://github.com/su77ungr/easy_mint
+
 GUI Application for NFT Generation - https://github.com/MindSpace/NFT_Generator
 
 Serpent Send Script - https://github.com/ageorge95/SERPENT-chia-offline-transaction-sign-and-send
